@@ -21,10 +21,10 @@ public class JavaVar {
 
         //With our current Allowance, how many battle passes will we be able to buy?
         System.out.println("With our current Allowance, how many battle passes will we be able to buy? : " + allowance/battlepass);
+        //I changed the text and added a division between Allowance and Battlepass, I did this to avoid making another Var
 
         //What is the total cost of battle passes if we wanted to have one for each Game?
         System.out.println("What is the total cost of battle passes if we wanted to have one for each Game? : " + battlepass*games);
-
-        //
+        //I changed the text and added a multiplication between Battlepass and Games, I did this to avoid making another Var
     }
 }

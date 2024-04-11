@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1273fda7-fe93-4036-a3b9-2e6dab33d283" name="Changes" comment="jioh" />
+    <list default="true" id="1273fda7-fe93-4036-a3b9-2e6dab33d283" name="Changes" comment="jioh">
+      <change beforePath="$PROJECT_DIR$/src/JavaVar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaVar.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +14,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="45fe4cf3-84a3-43f2-ad5f-ae888805b90d" />
+        <option name="url" value="https://github.com/hre000/Java-Variables.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -51,7 +61,7 @@
       <workItem from="1712256319973" duration="868000" />
       <workItem from="1712335353153" duration="4384000" />
       <workItem from="1712772352303" duration="1963000" />
-      <workItem from="1712862040410" duration="33000" />
+      <workItem from="1712862040410" duration="364000" />
     </task>
     <task id="LOCAL-00001" summary="jioh'h-">
       <option name="closed" value="true" />
@@ -61,7 +71,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712256493034</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="jioh">
+      <option name="closed" value="true" />
+      <created>1712862146749</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712862146749</updated>
+    </task>
+    <task id="LOCAL-00003" summary="jioh">
+      <option name="closed" value="true" />
+      <created>1712862307660</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712862307660</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

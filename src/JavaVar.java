@@ -10,7 +10,7 @@ public class JavaVar {
         // datatype varName [=value];
         int games = 3;
         double allowance = 40.50;
-        long battlepass; //We define battlepass
+        long battlepass; //We define battlepasw
 
         battlepass = 15; //We assign a value to battlepass
 
